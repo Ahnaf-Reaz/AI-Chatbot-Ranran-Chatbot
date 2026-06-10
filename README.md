@@ -10,6 +10,10 @@
 
 Ran Ran ChatBot is an AI chatbot with a graphical interface. Version 2.0 introduces several new features and improvements to enhance usability and interaction.
 
+<img width="648" height="477" alt="rrbv2 image 1" src="https://github.com/user-attachments/assets/3af8f3bb-456e-4519-8a29-5f00f919ae94" />
+
+<img width="714" height="533" alt="rrbv2 image2" src="https://github.com/user-attachments/assets/37a2f5eb-6caa-4f4d-848b-8cec0fc0e225" />
+
 ---
 
 ## What's New in Version 2.0
