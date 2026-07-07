@@ -53,7 +53,6 @@ Ran Ran ChatBot is an AI chatbot with a graphical interface. Version 2.1 builds 
 - Gradio – for the web-based UI
 - pywebview – for the native desktop window
 - pygame – for audio playback
-- Web Speech API – for microphone input in the browser
 
 ---
 
