@@ -1,4 +1,4 @@
-##Ran Ran ChatBot
+**Ran Ran ChatBot
 **Original Author:** Martin Tejada  
 **Gradio UI & Groq Integration:** Ahnaf  
 **Version:** 2.1  
