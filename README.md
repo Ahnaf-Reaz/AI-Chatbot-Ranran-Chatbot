@@ -1,4 +1,4 @@
-markdown# Ran Ran ChatBot
+##Ran Ran ChatBot
 **Original Author:** Martin Tejada  
 **Gradio UI & Groq Integration:** Ahnaf  
 **Version:** 2.1  
@@ -57,6 +57,3 @@ Ran Ran ChatBot is an AI chatbot with a graphical interface. Version 2.1 builds 
 
 ---
 
-## How to Run
-
-### Original PyQt6 App
