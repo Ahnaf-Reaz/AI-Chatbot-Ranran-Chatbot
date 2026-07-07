@@ -11,8 +11,8 @@
 ## Description
 Ran Ran ChatBot is an AI chatbot with a graphical interface. Version 2.1 builds on Version 2.0 by introducing a modern web-based UI alternative using Gradio, along with a switch to the Groq API for faster and free AI responses (Using OpenAI Libraries).
 
-<img width="648" height="477" alt="rrbv2 image 1" src="https://github.com/user-attachments/assets/3af8f3bb-456e-4519-8a29-5f00f919ae94" />
-<img width="714" height="533" alt="rrbv2 image2" src="https://github.com/user-attachments/assets/37a2f5eb-6caa-4f4d-848b-8cec0fc0e225" />
+<img width="1905" height="1031" alt="ranran1" src="https://github.com/user-attachments/assets/4b89ff60-fe11-4b5f-b95a-8e821c988360" />
+<img width="1895" height="997" alt="ranran2" src="https://github.com/user-attachments/assets/6bf7de22-e8ff-4589-9b4a-236bb4c5b80b" />
 
 ---
 
